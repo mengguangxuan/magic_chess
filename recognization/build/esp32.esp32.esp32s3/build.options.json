@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32s3",
+  "hardwareFolders": "C:\\Users\\mengguangxuan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.10,C:\\Users\\mengguangxuan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.10",
+  "otherLibrariesFolders": "C:\\Users\\MENGGU~1\\AppData\\Local\\Temp\\recognization_esp32s3_build\\ESP32Encoder-5.0.0,C:\\Users\\mengguangxuan\\Documents\\Arduino\\libraries",
+  "sketchLocation": "D:\\2026summer\\hardware_competition\\recognization_1\\recognization"
+}

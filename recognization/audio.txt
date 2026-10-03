@@ -1,0 +1,6 @@
+checkmate: AA 55 01 01 00 00 00 55 AA
+queen: AA 55 02 02 00 00 00 55 AA
+bishop: AA 55 03 03 00 00 00 55 AA
+knight: AA 55 04 04 00 00 00 55 AA
+pawn: AA 55 05 05 00 00 00 55 AA
+rook: AA 55 06 06 00 00 00 55 AA
